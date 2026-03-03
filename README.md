@@ -7,4 +7,7 @@
 
 
 
-Don't forget, you've got this!
+
+<br><br>
+
+Take it from me, you've got this!
