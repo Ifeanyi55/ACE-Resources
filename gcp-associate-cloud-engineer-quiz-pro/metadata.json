@@ -1,0 +1,5 @@
+{
+  "name": "GCP Associate Cloud Engineer Quiz Pro",
+  "description": "A comprehensive, interactive quiz application designed to prepare candidates for the Google Cloud Associate Cloud Engineer certification. Features 60 questions randomized across all exam domains: Environment Setup, Planning & Implementation, Operations, and Security.",
+  "requestFramePermissions": []
+}
